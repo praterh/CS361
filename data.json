@@ -1,0 +1,214 @@
+{
+  "movies": [
+    {
+      "title": "Mad Max: Fury Road",
+      "genre": "action",
+      "streaming_services": ["Netflix", "TNT", "TBS", "tru TV"],
+      "director": "George Miller",
+      "year": "2015"
+    },
+    {
+      "title": "John Wick",
+      "genre": "action",
+      "streaming_services": ["Hulu", "fuboTV"],
+      "director": "Chad Stahelski",
+      "year": "2014"
+    },
+    {
+      "title": "Die Hard",
+      "genre": "action",
+      "streaming_services": ["Hulu", "Amazon Video"],
+      "director": "John McTiernan",
+      "year": "1988"
+    },
+    {
+      "title": "Mission: Impossible - Fallout",
+      "genre": "action",
+      "streaming_services": ["Paramount Plus"],
+      "director": "Christopher McQuarrie",
+      "year": "2018"
+    },
+    {
+      "title": "Gladiator",
+      "genre": "action",
+      "streaming_services": ["Paramount Plus", "fuboTV"],
+      "director": "Ridley Scott",
+      "year": "2000"
+    },
+    {
+      "title": "Step Brothers",
+      "genre": "comedy",
+      "streaming_services": ["TBS", "tru TV", "TNT"],
+      "director": "Adam McKay",
+      "year": "2008"
+    },
+    {
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "genre": "comedy",
+      "streaming_services": ["Paramount Plus", "Peacock Premium Plus"],
+      "director": "Adam McKay",
+      "year": "2004"
+    },
+    {
+      "title": "The Hangover",
+      "genre": "comedy",
+      "streaming_services": ["Max", "Amazon Video"],
+      "director": "Todd Phillips",
+      "year": "2009"
+    },
+    {
+      "title": "Monty Python and the Holy Grail",
+      "genre": "comedy",
+      "streaming_services": ["BritBox", "Amazon Video"],
+      "director": "Terry Gilliam and Terry Jones",
+      "year": "1975"
+    },
+    {
+      "title": "Napoleon Dynamite",
+      "genre": "comedy",
+      "streaming_services": ["Hulu"],
+      "director": "Jared Hess",
+      "year": "2004"
+    },
+    {
+      "title": "Forrest Gump",
+      "genre": "drama",
+      "streaming_services": ["Paramount Plus", "fuboTV"],
+      "director": "Robert Zemeckis",
+      "year": "1994"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "genre": "drama",
+      "streaming_services": ["Paramount Plus"],
+      "director": "Gabriele Muccino",
+      "year": "2006"
+    },
+    {
+      "title": "Manchester by the Sea",
+      "genre": "drama",
+      "streaming_services": ["Amazon Prime Video"],
+      "director": "Kenneth Lonergan",
+      "year": "2016"
+    },
+    {
+      "title": "The Whale",
+      "genre": "drama",
+      "streaming_services": ["fuboTV", "Netflix"],
+      "director": "Darren Aronofsky",
+      "year": "2022"
+    },
+    {
+      "title": "Schindler's List",
+      "genre": "drama",
+      "streaming_services": ["Netflix"],
+      "director": "Steven Spielberg",
+      "year": "1993"
+    },
+    {
+      "title": "The Conjuring",
+      "genre": "horror",
+      "streaming_services": ["MGM Plus"],
+      "director": "James Wan",
+      "year": "2013"
+    },
+    {
+      "title": "Hereditary",
+      "genre": "horror",
+      "streaming_services": ["Netflix"],
+      "director": "Ari Aster",
+      "year": "2018"
+    },
+    {
+      "title": "It",
+      "genre": "horror",
+      "streaming_services": ["Netflix", "Amazon Video", "Max"],
+      "director": "Andy Muschietti",
+      "year": "2017"
+    },
+    {
+      "title": "Scream",
+      "genre": "horror",
+      "streaming_services": ["Max", "Amazon Video"],
+      "director": "Wes Craven",
+      "year": "1996"
+    },
+    {
+      "title": "Texas Chainsaw Massacre",
+      "genre": "horror",
+      "streaming_services": ["Netflix"],
+      "director": "David Blue Garcia",
+      "year": "2022"
+    },
+    {
+      "title": "Pacific Rim",
+      "genre": "science fiction",
+      "streaming_services": ["Hulu"],
+      "director": "Guillermo del Toro",
+      "year": "2013"
+    },
+    {
+      "title": "Inception",
+      "genre": "science fiction",
+      "streaming_services": ["Netflix"],
+      "director": "Christopher Nolan",
+      "year": "2010"
+    },
+    {
+      "title": "Interstellar",
+      "genre": "science fiction",
+      "streaming_services": ["Netflix", "Paramount Plus"],
+      "director": "Christopher Nolan",
+      "year": "2014"
+    },
+    {
+      "title": "Minority Report",
+      "genre": "science fiction",
+      "streaming_services": ["Criterion Channel", "Paramount Plus"],
+      "director": "Steven Spielberg",
+      "year": "2002"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "genre": "science fiction",
+      "streaming_services": ["Max", "Amazon Video"],
+      "director": "Stanley Kubrick",
+      "year": "1968"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "genre": "romance",
+      "streaming_services": ["Peacock Premium Plus"],
+      "director": "Joe Wright",
+      "year": "2005"
+    },
+    {
+      "title": "The Notebook",
+      "genre": "romance",
+      "streaming_services": ["Hulu", "Amazon Video", "Max"],
+      "director": "Nick Cassavetes",
+      "year": "2004"
+    },
+    {
+      "title": "Titanic",
+      "genre": "romance",
+      "streaming_services": ["MGM Plus", "Paramount Plus", "Hulu"],
+      "director": "James Cameron",
+      "year": "1997"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "genre": "romance",
+      "streaming_services": ["fuboTV", "Amazon Video", "MGM Plus"],
+      "director": "Michel Gondry",
+      "year": "2004"
+    },
+    {
+      "title": "10 Things I Hate About You",
+      "genre": "romance",
+      "streaming_services": ["Disney Plus"],
+      "director": "Gil Junger",
+      "year": "1999"
+    }
+  ]
+}
